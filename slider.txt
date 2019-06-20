@@ -1,0 +1,14 @@
+學到github超基本使用
+先換位址到目標資料夾
+git clone (clone代碼)
+把資料夾整個copy下來
+然後就可以開始改東西了
+不過改完之後要add 讓git知道
+git add (檔名)
+就加上去了 之後還可以檢查
+git status
+然後還可以commit 算是給檔案下註解
+git commit -m "裡面可以打字"
+最後就是上傳啦
+git push
+結束!
