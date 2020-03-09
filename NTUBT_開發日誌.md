@@ -24,3 +24,33 @@
 * 訓練管理頁
 * 共享資源頁
 * 部落格
+## 設定路由
+一開始當然是生成專案，
+
+    ng new NTUBT --routing
+後面要幫它增加module和component，要這樣做：  
+
+    ng generate module home --routing
+    ng generate component home
+    等等
+如果一個module裡面用到很多UI元件，那都要一一寫入！晚點再加上。
+接著要在app-routing.module.ts裡面改這個，
+
+    import { NgModule } from '@angular/core';
+    import { Routes, RouterModule, PreloadAllModules } from '@angular/router'; // import進來第三個預先導入的功能！
+    import { appPath } from './app-path.const'; // 去寫一個Constant檔！
+
+    const routes: Routes = [
+      {
+        path: appPath.home,
+        //loadChildren: './home/home.module#HomeModule' // 好像不能這樣寫，要寫成下面這樣
+        loadChildren: () => import('./home/home.module').then(mod => mod.HomeModule)
+      },...
+    }
+    @NgModule({
+      imports: [RouterModule.forRoot(routes, {
+        preloadingStrategy: PreloadAllModules // 這個要在上面先導入
+      })],
+      exports: [RouterModule]
+    })
+    export class AppRoutingModule { }
