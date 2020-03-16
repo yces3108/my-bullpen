@@ -58,4 +58,6 @@
 如何將本地vue項目上傳到github  
 https://www.twblogs.net/a/5d00cc21bd9eee14644f862d  
 如何處理 Webpack 打包後空白頁面處理  
-https://medium.com/@happyjayxin/vue-npm-run-build-%E7%A9%BA%E7%99%BD%E8%A7%A3%E6%B1%BA-4cbecb87e643
+https://medium.com/@happyjayxin/vue-npm-run-build-%E7%A9%BA%E7%99%BD%E8%A7%A3%E6%B1%BA-4cbecb87e643  
+Vuejs部屬GitHub Pages(包含上傳檔案和page，很完整)  
+https://hsiangfeng.github.io/vue/20190513/948497494/  
