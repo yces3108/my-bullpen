@@ -65,3 +65,5 @@ https://hsiangfeng.github.io/vue/20190513/948497494/
 淺談新手在學習 SPA 時的常見問題：以 Router 為例  
 https://github.com/aszx87410/blog/issues/48  
 這個觀念實在重要！  
+## 有用到cookie的註冊登錄頁面
+https://segmentfault.com/a/1190000009329619
