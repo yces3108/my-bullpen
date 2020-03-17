@@ -54,6 +54,8 @@
       exports: [RouterModule]
     })
     export class AppRoutingModule { }
+## CSS垂直置中
+https://pjchender.blogspot.com/2015/04/css_15.html  
 ## 終於來到我的第一次上傳！
 如何將本地vue項目上傳到github  
 https://www.twblogs.net/a/5d00cc21bd9eee14644f862d  
@@ -67,5 +69,7 @@ https://github.com/aszx87410/blog/issues/48
 這個觀念實在重要！  
 [IT 鐵人賽] Router 基本入門 Day 9 (內有萬用匹配設定方法)  
 https://blog.hinablue.me/2019-ithome-ironman-day-9/  
+Vue Router  
+https://medium.com/@linwei5316/vue-router-4c2aad1cc352  
 ## 有用到cookie的註冊登錄頁面
 https://segmentfault.com/a/1190000009329619
