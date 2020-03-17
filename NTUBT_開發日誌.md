@@ -61,3 +61,7 @@ https://www.twblogs.net/a/5d00cc21bd9eee14644f862d
 https://medium.com/@happyjayxin/vue-npm-run-build-%E7%A9%BA%E7%99%BD%E8%A7%A3%E6%B1%BA-4cbecb87e643  
 Vuejs部屬GitHub Pages(包含上傳檔案和page，很完整)  
 https://hsiangfeng.github.io/vue/20190513/948497494/  
+## 為什麼重新整理之後，就會跑回到404？
+淺談新手在學習 SPA 時的常見問題：以 Router 為例  
+https://github.com/aszx87410/blog/issues/48  
+這個觀念實在重要！  
