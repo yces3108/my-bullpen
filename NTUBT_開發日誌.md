@@ -73,3 +73,5 @@ Vue Router
 https://medium.com/@linwei5316/vue-router-4c2aad1cc352  
 ## 有用到cookie的註冊登錄頁面
 https://segmentfault.com/a/1190000009329619
+## 整合Vue前端與Django後端
+https://cloud.tencent.com/developer/article/1005607
