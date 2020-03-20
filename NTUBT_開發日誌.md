@@ -78,6 +78,6 @@ https://segmentfault.com/a/1190000009329619
 https://cloud.tencent.com/developer/article/1005607  
 Django+Vue.js构建项目(這個更精采)  
 https://zhuanlan.zhihu.com/p/54776124  
-原來是Vue把MVVM的Model部分交給Django，Django把MVC的View交給Vue，中間的AJAX用axios來達成。
+原來是Vue把MVVM的Model部分交給Django，Django把MVC的View交給Vue，中間的AJAX用axios來達成。  
 2小时入门Django(DRF)+Vue·前后端分离简明指南  
 https://blog.cyru1s.com/posts/Django-vue.html  
