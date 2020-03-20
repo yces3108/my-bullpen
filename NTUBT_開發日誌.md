@@ -81,3 +81,5 @@ https://zhuanlan.zhihu.com/p/54776124
 原來是Vue把MVVM的Model部分交給Django，Django把MVC的View交給Vue，中間的AJAX用axios來達成。  
 2小时入门Django(DRF)+Vue·前后端分离简明指南  
 https://blog.cyru1s.com/posts/Django-vue.html  
+參考 Django：django-cors-headers 报错no module named "corsheaders"  
+https://www.cnblogs.com/2012-dream/p/10529228.html  
