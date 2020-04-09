@@ -88,6 +88,8 @@ Django2与@Vue/Cli3整合--访问静态文件404问题 (最後是這篇真的解
 https://blog.csdn.net/Amio_/article/details/88354438  
 axios安装 使用及如何解决‘axios  is not defined’  
 https://blog.csdn.net/yytIcon/article/details/90713049  
+Simple Movies web app with Vue, Vuetify and Django.  
+https://medium.com/@samy_raps/simple-movies-web-app-with-vue-vuetify-and-django-part-1-setup-6351c02327a5
 
 ## 雜項
 美按鈕！  
